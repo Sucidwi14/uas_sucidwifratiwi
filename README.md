@@ -22,9 +22,11 @@ Dalam tabel pasien saya bisa menambahkan, mengedit dan menghapus data. Contohnya
 
 Tampilan Menambah Pasien.
 ![Screenshot (420)](https://user-images.githubusercontent.com/101787968/179385969-23b92545-6435-4d99-9418-7e4b051b4fbd.png)
+![Screenshot (421)](https://user-images.githubusercontent.com/101787968/179385930-33b4850c-943d-4dac-be23-1ca218dde27e.png)
 
 Tampilan Edit Pasien.
 ![Screenshot (421)](https://user-images.githubusercontent.com/101787968/179385930-33b4850c-943d-4dac-be23-1ca218dde27e.png)
+![Screenshot (429)](https://user-images.githubusercontent.com/101787968/179404635-d9bc1226-b8ac-42b3-9815-687c3242cbf2.png)
 
 Tampilan Hapus Pasien.
 ![Screenshot (422)](https://user-images.githubusercontent.com/101787968/179385985-f3e28a97-fa89-4ddc-b5e9-488852921c09.png)
