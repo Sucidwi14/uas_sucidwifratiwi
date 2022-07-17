@@ -1,4 +1,5 @@
 UJIAN AKHIR SEMESTER
+
 Nama : SUCI DWI FRATIWI
 
 NIM : 312010143
@@ -8,7 +9,7 @@ Kelas : TI.20.D.1
 Matkul : Sistem Basis Data
 
 Dosen : Muhammad Najamuddin Dwi Miharja, S.Kom, M.kom
-IU
+
 Membuat Sistem Informasi Klinik.
 
 Tampilan Login.
