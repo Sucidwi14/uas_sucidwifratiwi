@@ -26,7 +26,7 @@ Tampilan Menambah Pasien.
 
 Tampilan Edit Pasien.
 ![Screenshot (421)](https://user-images.githubusercontent.com/101787968/179385930-33b4850c-943d-4dac-be23-1ca218dde27e.png)
-![Screenshot (429)](https://user-images.githubusercontent.com/101787968/179404635-d9bc1226-b8ac-42b3-9815-687c3242cbf2.png)
+![image](https://user-images.githubusercontent.com/101787968/179404922-ce2ad68f-6331-45db-b3eb-5e561682747c.png)
 
 Tampilan Hapus Pasien.
 ![Screenshot (422)](https://user-images.githubusercontent.com/101787968/179385985-f3e28a97-fa89-4ddc-b5e9-488852921c09.png)
