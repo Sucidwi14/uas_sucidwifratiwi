@@ -29,7 +29,7 @@ Tampilan Edit Pasien.
 ![image](https://user-images.githubusercontent.com/101787968/179404922-ce2ad68f-6331-45db-b3eb-5e561682747c.png)
 
 Tampilan Hapus Pasien.
-![Screenshot (422)](https://user-images.githubusercontent.com/101787968/179385985-f3e28a97-fa89-4ddc-b5e9-488852921c09.png)
+![image](https://user-images.githubusercontent.com/101787968/179404978-9d749530-5ad7-4b3a-a446-acfa0ccb9211.png)
 ![Screenshot (423)](https://user-images.githubusercontent.com/101787968/179385995-3451c9a2-e8f3-4459-b119-7e81d48b80ac.png)
 
 Tampilan Data Dokter.
