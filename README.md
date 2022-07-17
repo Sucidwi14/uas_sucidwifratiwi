@@ -16,7 +16,7 @@ Tampilan Login.
 ![Screenshot (419)](https://user-images.githubusercontent.com/101787968/179385882-17b13cb1-76a7-4057-8c2a-a19f229446ec.png)
 
 Tampilan Data Pasien.
-![Screenshot (418)](https://user-images.githubusercontent.com/101787968/179385905-04287a66-c063-4c9f-a782-09b6fcc5048f.png)
+![image](https://user-images.githubusercontent.com/101787968/179386126-eb7c9d4b-dada-47e1-a9bd-d067968c9c10.png)
 
 Dalam tabel pasien saya bisa menambahkan, mengedit dan menghapus data. Contohnya sebagai berikut :
 
